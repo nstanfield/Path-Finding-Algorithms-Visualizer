@@ -7,9 +7,10 @@ A project developed in Python that visualizes different path-finding algorithms 
 
 # How to Run
 The Pygame module is required to run
-To install, run this command in the terminal: pip install pygame
 
-Run Main.py to start the program
+To install it, run this command in the terminal: pip install pygame
+
+Then run Main.py to start the program
 
 # Future Additions
 * Djikstra
