@@ -1,5 +1,5 @@
 # Path-Finding-Algorithms-Visualizer
-A project developed in Python that visualizes different path-finding algorithms using the Pygame module. The user can create different obstacles and mazes to see how the algorithm would find a path.
+A project developed in Python that visualizes different path-finding algorithms using the Pygame module. The user can create different obstacles and mazes to see how the algorithm would find a path from the start node to the end node.
 
 # Supported Algorithms
 * Depth First Search
